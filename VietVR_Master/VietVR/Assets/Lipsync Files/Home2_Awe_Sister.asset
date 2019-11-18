@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f44607bd270d4f4eaa8869ed9b5b85c, type: 3}
+  m_Name: Home2_Awe_Sister
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 0ff02f7f04a74104da3eb5b9ea0578af, type: 3}
+  phonemeData:
+  - phoneme: 0
+    phonemeNumber: 11
+    time: 0.07455499
+    intensity: 0.86
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 6
+    time: 0.0902265
+    intensity: 0.369
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 11
+    time: 0.09991613
+    intensity: 0.427
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  emotionData:
+  - emotion: Scared
+    isMixer: 1
+    mixer:
+      emotions:
+      - emotion: Scared
+        weight: 0.31012672
+      - emotion: Sad
+        weight: 0.6898734
+      mixingMode: 0
+      displayColor: {r: 0.23017316, g: 0.68617535, b: 0.81301194, a: 2.0000002}
+    startTime: 0.0118285185
+    endTime: 0.96212023
+    blendInTime: 0.05610913
+    blendOutTime: -0.22546892
+    blendToMarker: 0
+    blendFromMarker: 0
+    customBlendIn: 1
+    customBlendOut: 1
+    intensity: 0.559
+    continuousVariation: 1
+    variationFrequency: 0.5
+    intensityVariation: 0.35
+    blendableVariation: 0.1
+    bonePositionVariation: 0.1
+    boneRotationVariation: 0.1
+    invalid: 0
+  gestureData:
+  - gesture: S_Oh
+    time: 0.044547725
+  - gesture: S_HeadNod
+    time: 0.8347007
+  version: 1.44
+  length: 11.976
+  transcript: 

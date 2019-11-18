@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f44607bd270d4f4eaa8869ed9b5b85c, type: 3}
+  m_Name: Home2_Awe_Father
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: fa2646135e847554cb0efceebb75b5b8, type: 3}
+  phonemeData:
+  - phoneme: 0
+    phonemeNumber: 13
+    time: 0.28879794
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.34761685
+    intensity: 0.613
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.39518663
+    intensity: 0.613
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 1
+    time: 0.42672846
+    intensity: 0.53
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.4478306
+    intensity: 0.516
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 0
+    time: 0.4689327
+    intensity: 0.663
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 0
+    time: 0.5111371
+    intensity: 0.52
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 1
+    time: 0.5486518
+    intensity: 0.703
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 1
+    time: 0.58264786
+    intensity: 0.434
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 7
+    time: 0.59906113
+    intensity: 0.473
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.6201628
+    intensity: 0.685
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 10
+    time: 0.66471255
+    intensity: 0.498
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 1
+    time: 0.67760694
+    intensity: 0.584
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 10
+    time: 0.68581486
+    intensity: 0.315
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 14
+    time: 0.7022263
+    intensity: 0.681
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 0
+    time: 0.72567356
+    intensity: 0.52
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 13
+    time: 0.7678767
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 11
+    time: 0.78546244
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 1
+    time: 0.807737
+    intensity: 0.602
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 3
+    time: 0.82532185
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 6
+    time: 0.8371942
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 3
+    time: 0.8489173
+    intensity: 0.642
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 8
+    time: 0.8594689
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.86973435
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 14
+    time: 0.88702095
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 0
+    time: 0.8972806
+    intensity: 1
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  - phoneme: 0
+    phonemeNumber: 4
+    time: 0.9194141
+    intensity: 0.183
+    sustain: 0
+    useRandomness: 0
+    intensityRandomness: 0.1
+    blendableRandomness: 0.3
+    bonePositionRandomness: 0.3
+    boneRotationRandomness: 0.3
+  emotionData:
+  - emotion: Happy
+    isMixer: 1
+    mixer:
+      emotions:
+      - emotion: Happy
+        weight: 0.83122367
+      - emotion: Scared
+        weight: 0.14807147
+      - emotion: Sad
+        weight: 0.4620253
+      mixingMode: 1
+      displayColor: {r: 0.9411209, g: 0.96744573, b: 0.5208184, a: 2.4413207}
+    startTime: 0.00820633
+    endTime: 0.43880424
+    blendInTime: 0.085580304
+    blendOutTime: -0.061714947
+    blendToMarker: 1
+    blendFromMarker: 0
+    customBlendIn: 1
+    customBlendOut: 0
+    intensity: 0.735
+    continuousVariation: 1
+    variationFrequency: 0.5
+    intensityVariation: 0.35
+    blendableVariation: 0.1
+    bonePositionVariation: 0.1
+    boneRotationVariation: 0.1
+    invalid: 0
+  - emotion: Sad
+    isMixer: 0
+    mixer:
+      emotions: []
+      mixingMode: 0
+      displayColor: {r: 0, g: 0, b: 0, a: 1}
+    startTime: 0.3770893
+    endTime: 0.6319557
+    blendInTime: 0.061714947
+    blendOutTime: -0.06337416
+    blendToMarker: 1
+    blendFromMarker: 1
+    customBlendIn: 0
+    customBlendOut: 0
+    intensity: 0.703
+    continuousVariation: 1
+    variationFrequency: 0.5
+    intensityVariation: 0.35
+    blendableVariation: 0.1
+    bonePositionVariation: 0.1
+    boneRotationVariation: 0.1
+    invalid: 0
+  - emotion: Happy
+    isMixer: 1
+    mixer:
+      emotions:
+      - emotion: Happy
+        weight: 0.83122367
+      - emotion: Scared
+        weight: 0.14807147
+      - emotion: Sad
+        weight: 0.4620253
+      mixingMode: 1
+      displayColor: {r: 0.9411209, g: 0.96744573, b: 0.5208184, a: 2.4413207}
+    startTime: 0.5685815
+    endTime: 0.9827669
+    blendInTime: 0.06337416
+    blendOutTime: -0.06799528
+    blendToMarker: 0
+    blendFromMarker: 1
+    customBlendIn: 0
+    customBlendOut: 1
+    intensity: 0.735
+    continuousVariation: 1
+    variationFrequency: 0.35
+    intensityVariation: 0.35
+    blendableVariation: 0.1
+    bonePositionVariation: 0.1
+    boneRotationVariation: 0.1
+    invalid: 0
+  gestureData:
+  - gesture: F_SittingTalking
+    time: 0.41617784
+  version: 1.44
+  length: 11.976
+  transcript: 

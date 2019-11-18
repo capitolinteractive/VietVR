@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dd78e1ef10db42b47aa1c491ab3ce38a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainBut: {instanceID: 0}
+  - diagBox: {instanceID: 0}
+  - audioBut: {instanceID: 0}
+  - Vplayer: {instanceID: 0}
+  - bBut: {instanceID: 0}
+  - fBut: {instanceID: 0}
+  - videoDefault: {instanceID: 0}
+  - TMtxt: {instanceID: 0}
+  - audioTex: {instanceID: 0}
+  - node: {fileID: 1555208766692564, guid: 510ffe47969803441a38c8151e43578f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db07302a52ae0d84f8f0c1bf5a629241, type: 3}
+  m_Name: New Preset
+  m_EditorClassIdentifier: 
+  phonemeShapes:
+  - phonemeName: AE
+    phoneme: 0
+    blendables:
+    - blendableNumber: 10
+      blendableName: LipsyncEmotion.AI (10)
+      weight: 79.4
+    - blendableNumber: 15
+      blendableName: MouthShapes.AH (15)
+      weight: 61.1
+    bones: []
+  - phonemeName: AH
+    phoneme: 0
+    blendables:
+    - blendableNumber: 10
+      blendableName: LipsyncEmotion.AI (10)
+      weight: 100
+    - blendableNumber: 15
+      blendableName: MouthShapes.AH (15)
+      weight: 93.8
+    bones: []
+  - phonemeName: OO
+    phoneme: 0
+    blendables:
+    - blendableNumber: 8
+      blendableName: LipsyncEmotion.WQ (8)
+      weight: 100
+    - blendableNumber: 17
+      blendableName: MouthShapes.EIH (17)
+      weight: 100
+    bones: []
+  - phonemeName: EE
+    phoneme: 0
+    blendables:
+    - blendableNumber: 9
+      blendableName: LipsyncEmotion.E (9)
+      weight: 100
+    - blendableNumber: 15
+      blendableName: MouthShapes.AH (15)
+      weight: 100
+    bones: []
+  - phonemeName: IH
+    phoneme: 0
+    blendables:
+    - blendableNumber: 6
+      blendableName: LipsyncEmotion.O (6)
+      weight: 58
+    - blendableNumber: 14
+      blendableName: MouthShapes.UH (14)
+      weight: 41.6
+    bones: []
+  - phonemeName: U
+    phoneme: 0
+    blendables:
+    - blendableNumber: 7
+      blendableName: LipsyncEmotion.U (7)
+      weight: 76.7
+    - blendableNumber: 14
+      blendableName: MouthShapes.UH (14)
+      weight: 32.7
+    - blendableNumber: 8
+      blendableName: LipsyncEmotion.WQ (8)
+      weight: 36.2
+    bones: []
+  - phonemeName: OH
+    phoneme: 0
+    blendables:
+    - blendableNumber: 6
+      blendableName: LipsyncEmotion.O (6)
+      weight: 100
+    - blendableNumber: 15
+      blendableName: MouthShapes.AH (15)
+      weight: 100
+    bones: []
+  - phonemeName: FV
+    phoneme: 0
+    blendables:
+    - blendableNumber: 1
+      blendableName: LipsyncEmotion.FV (1)
+      weight: 100
+    - blendableNumber: 17
+      blendableName: MouthShapes.EIH (17)
+      weight: 100
+    bones: []
+  - phonemeName: MBP
+    phoneme: 0
+    blendables:
+    - blendableNumber: 4
+      blendableName: LipsyncEmotion.MBP (4)
+      weight: 100
+    - blendableNumber: 17
+      blendableName: MouthShapes.EIH (17)
+      weight: 0
+    bones: []
+  - phonemeName: L
+    phoneme: 0
+    blendables:
+    - blendableNumber: 2
+      blendableName: LipsyncEmotion.L (2)
+      weight: 100
+    - blendableNumber: 18
+      blendableName: MouthShapes.L (18)
+      weight: 100
+    bones: []
+  - phonemeName: SH
+    phoneme: 0
+    blendables:
+    - blendableNumber: 3
+      blendableName: LipsyncEmotion.CDGKNRSThYZ (3)
+      weight: 61.1
+    - blendableNumber: 14
+      blendableName: MouthShapes.UH (14)
+      weight: 29.6
+    bones: []
+  - phonemeName: W
+    phoneme: 0
+    blendables:
+    - blendableNumber: 8
+      blendableName: LipsyncEmotion.WQ (8)
+      weight: 100
+    - blendableNumber: 17
+      blendableName: MouthShapes.EIH (17)
+      weight: 100
+    bones: []
+  - phonemeName: TH
+    phoneme: 0
+    blendables:
+    - blendableNumber: 3
+      blendableName: LipsyncEmotion.CDGKNRSThYZ (3)
+      weight: 100
+    - blendableNumber: 16
+      blendableName: MouthShapes.TH (16)
+      weight: 100
+    bones: []
+  - phonemeName: Rest
+    phoneme: 0
+    blendables:
+    - blendableNumber: 5
+      blendableName: LipsyncEmotion.rest (5)
+      weight: 100
+    - blendableNumber: 14
+      blendableName: MouthShapes.UH (14)
+      weight: 61.1
+    bones: []
+  emotionShapes:
+  - emotion: Happy
+    blendables: []
+    bones: []
+  - emotion: Angry
+    blendables: []
+    bones: []
+  - emotion: Scared
+    blendables: []
+    bones: []
+  - emotion: Sad
+    blendables: []
+    bones: []
+  - emotion: Neutral
+    blendables: []
+    bones: []

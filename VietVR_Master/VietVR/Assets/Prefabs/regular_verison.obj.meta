@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 1d202b505c8fe5641bd1cb536464f48e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: OG_base
+    100002: OG_hbar1
+    100004: OG_hbar2
+    100006: pCylinder18_vbars_OG
+    100008: //RootNode
+    100010: vbars_OG_pCylinder10
+    100012: vbars_OG_pCylinder11
+    100014: vbars_OG_pCylinder12
+    100016: vbars_OG_pCylinder13
+    100018: vbars_OG_pCylinder14
+    100020: vbars_OG_pCylinder15
+    100022: vbars_OG_pCylinder16
+    100024: vbars_OG_pCylinder17
+    100026: vbars_OG_pCylinder3
+    100028: vbars_OG_pCylinder4
+    100030: vbars_OG_pCylinder5
+    100032: vbars_OG_pCylinder6
+    100034: vbars_OG_pCylinder7
+    100036: vbars_OG_pCylinder8
+    100038: vbars_OG_pCylinder9
+    400000: OG_base
+    400002: OG_hbar1
+    400004: OG_hbar2
+    400006: pCylinder18_vbars_OG
+    400008: //RootNode
+    400010: vbars_OG_pCylinder10
+    400012: vbars_OG_pCylinder11
+    400014: vbars_OG_pCylinder12
+    400016: vbars_OG_pCylinder13
+    400018: vbars_OG_pCylinder14
+    400020: vbars_OG_pCylinder15
+    400022: vbars_OG_pCylinder16
+    400024: vbars_OG_pCylinder17
+    400026: vbars_OG_pCylinder3
+    400028: vbars_OG_pCylinder4
+    400030: vbars_OG_pCylinder5
+    400032: vbars_OG_pCylinder6
+    400034: vbars_OG_pCylinder7
+    400036: vbars_OG_pCylinder8
+    400038: vbars_OG_pCylinder9
+    2100000: OG_baseMat
+    2100002: OG_hbar1Mat
+    2100004: OG_hbar2Mat
+    2100006: pCylinder18_vbars_OGMat
+    2100008: vbars_OG_pCylinder10Mat
+    2100010: vbars_OG_pCylinder11Mat
+    2100012: vbars_OG_pCylinder12Mat
+    2100014: vbars_OG_pCylinder13Mat
+    2100016: vbars_OG_pCylinder14Mat
+    2100018: vbars_OG_pCylinder15Mat
+    2100020: vbars_OG_pCylinder16Mat
+    2100022: vbars_OG_pCylinder17Mat
+    2100024: vbars_OG_pCylinder3Mat
+    2100026: vbars_OG_pCylinder4Mat
+    2100028: vbars_OG_pCylinder5Mat
+    2100030: vbars_OG_pCylinder6Mat
+    2100032: vbars_OG_pCylinder7Mat
+    2100034: vbars_OG_pCylinder8Mat
+    2100036: vbars_OG_pCylinder9Mat
+    2300000: OG_base
+    2300002: OG_hbar1
+    2300004: OG_hbar2
+    2300006: pCylinder18_vbars_OG
+    2300008: vbars_OG_pCylinder10
+    2300010: vbars_OG_pCylinder11
+    2300012: vbars_OG_pCylinder12
+    2300014: vbars_OG_pCylinder13
+    2300016: vbars_OG_pCylinder14
+    2300018: vbars_OG_pCylinder15
+    2300020: vbars_OG_pCylinder16
+    2300022: vbars_OG_pCylinder17
+    2300024: vbars_OG_pCylinder3
+    2300026: vbars_OG_pCylinder4
+    2300028: vbars_OG_pCylinder5
+    2300030: vbars_OG_pCylinder6
+    2300032: vbars_OG_pCylinder7
+    2300034: vbars_OG_pCylinder8
+    2300036: vbars_OG_pCylinder9
+    3300000: OG_base
+    3300002: OG_hbar1
+    3300004: OG_hbar2
+    3300006: pCylinder18_vbars_OG
+    3300008: vbars_OG_pCylinder10
+    3300010: vbars_OG_pCylinder11
+    3300012: vbars_OG_pCylinder12
+    3300014: vbars_OG_pCylinder13
+    3300016: vbars_OG_pCylinder14
+    3300018: vbars_OG_pCylinder15
+    3300020: vbars_OG_pCylinder16
+    3300022: vbars_OG_pCylinder17
+    3300024: vbars_OG_pCylinder3
+    3300026: vbars_OG_pCylinder4
+    3300028: vbars_OG_pCylinder5
+    3300030: vbars_OG_pCylinder6
+    3300032: vbars_OG_pCylinder7
+    3300034: vbars_OG_pCylinder8
+    3300036: vbars_OG_pCylinder9
+    4300000: OG_base
+    4300002: OG_hbar1
+    4300004: OG_hbar2
+    4300006: pCylinder18_vbars_OG
+    4300008: vbars_OG_pCylinder10
+    4300010: vbars_OG_pCylinder11
+    4300012: vbars_OG_pCylinder12
+    4300014: vbars_OG_pCylinder13
+    4300016: vbars_OG_pCylinder14
+    4300018: vbars_OG_pCylinder15
+    4300020: vbars_OG_pCylinder16
+    4300022: vbars_OG_pCylinder17
+    4300024: vbars_OG_pCylinder3
+    4300026: vbars_OG_pCylinder4
+    4300028: vbars_OG_pCylinder5
+    4300030: vbars_OG_pCylinder6
+    4300032: vbars_OG_pCylinder7
+    4300034: vbars_OG_pCylinder8
+    4300036: vbars_OG_pCylinder9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d88ce0f977278ac4590f827247ba60de, type: 3}
+  m_Name: ProjectSettings
+  m_EditorClassIdentifier: 
+  emotions:
+  - Happy
+  - Angry
+  - Scared
+  - Sad
+  - Neutral
+  - Raised Brows
+  emotionColors:
+  - {r: 1, g: 0.6827586, b: 0, a: 1}
+  - {r: 0.31764707, g: 0.31764707, b: 0.31764707, a: 1}
+  - {r: 0.74219066, g: 1, b: 0.39705884, a: 1}
+  - {r: 0, g: 0.54509807, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 0.6273585, b: 0.78417414, a: 1}
+  gestures:
+  - Idle
+  - IdleToTransition
+  - IdleFromTransition
+  - AnnoyedHeadShake
+  - StartWalking
+  - Walking
+  - StopWalking
+  - StartAndStopWalking
+  - HappyHandGesture
+  - HeadNodYes
+  - LookAwayGesture
+  - SarcasticHeadNod
+  - SittingCrosslegged
+  - SitDown
+  - StandUp
+  - SittingIdle
+  - Thankful
+  - Angry
+  - Beckoning
+  - LeftTurn
+  - RightTurn
+  - LookBehind
+  - PointingRight
+  - PointingLeftBehind
+  - PointFront
+  - Sarcastic Head Nod
+  - Greeting
+  - Pilot Idle 1
+  - Pilot Idle 2
+  - Pilot Sitting fidget
+  - Pilot SittingLookAround
+  - Pilot SittingLookLR
+  - Pilot SittingCheering
+  - TalkingL
+  - TalkingR
+  - Yell
+  - F_Acknowledge
+  - F_Agreeing
+  - F_AngryGesture
+  - F_AngryPoint
+  - F_DismissingGesture
+  - F_HandsForwardGesture
+  - F_HappyHandGesture
+  - F_HardHeadNod
+  - F_HeadGesture
+  - F_IdleStanding
+  - F_LeftTurn
+  - F_LeftTurninPlace
+  - F_LeftTurn180
+  - F_LengthyHeadNod
+  - F_LookAwayGesture
+  - F_PattingL
+  - F_PattingR
+  - F_Pouting
+  - F_RelievedSigh
+  - F_RightTurn
+  - F_RightTurninPlace
+  - F_RightTurn180
+  - F_SarcasticHeadHod
+  - F_ShakingHeadNo
+  - F_SitToStand
+  - F_SitToStand (1)
+  - F_Sitting
+  - F_Sitting (1)
+  - F_SittingIdle
+  - F_SittingIdle (1)
+  - F_SittingTalking
+  - F_StandUp
+  - F_StartWalking
+  - F_StopWalking
+  - F_Talking
+  - F_Talking (1)
+  - F_Talking (2)
+  - F_ThoughtfulHeadShake
+  - F_Walking
+  - F_Yelling
+  - S_Acknowledging
+  - S_AngryPoint
+  - S_AnnoyedHeadShake
+  - S_Dismissing
+  - S_StartWalk
+  - S_StopWalk
+  - S_HeadGesture
+  - S_HeadNod
+  - S_IdleStanding
+  - S_Laugh
+  - S_TurnL
+  - S_TurnR
+  - S_LookAwayGest
+  - S_Oh
+  - S_SarcasticHeadNod
+  - S_SitToStand
+  - S_StandToSit
+  - S_SittingIdle
+  - S_SitLaugh
+  - S_StandArgue
+  - S_Talking
+  - S_Talking (1)
+  - S_Thoughtfulheadshake
+  - S_Walk
+  - S_WellOK
+  - S_SittingTalking
+  - A_IdleStand
+  - A_IdleSit
+  - A_CrouchToStand
+  - A_StandToCrouch
+  - A_IdleCrouch
+  - A_Ducking
+  - A_LookIdleLR
+  - A_TurnL
+  - A_TurnR
+  - A_LookOverShoulder
+  - A_PoseSitting
+  - A_Rummaging
+  - A_ScaredSit
+  - A_ScaredStand
+  - A_SittingDodge
+  - A_SlowRun
+  - A_StandingToActionIdle
+  - A_WipeSweat
+  - A_Aknowledge
+  - A_Pointing
+  - A_YellingStanding
+  - A_HeadNod
+  - A_SitToStand
+  phonemeSet: {fileID: 11400000, guid: ad5dc77f69c3ee14980347476da8fb6c, type: 2}
